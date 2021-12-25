@@ -1,5 +1,6 @@
 *.php
 *.json
+*.bat
 R.txt
 icons/256/*
 icons/256skip/*
